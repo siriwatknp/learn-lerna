@@ -1,1 +1,1 @@
-module.exports = 'testttttttt'
+module.exports = 'testtttttttttt'
