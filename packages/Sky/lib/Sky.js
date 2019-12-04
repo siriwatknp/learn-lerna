@@ -3,5 +3,5 @@
 module.exports = sky;
 
 function sky() {
-    return 'hi'
+    return 'hi2'
 }
