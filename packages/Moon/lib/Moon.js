@@ -3,5 +3,5 @@
 module.exports = moon;
 
 function moon() {
-    // TODO
+    return 'hello'
 }
