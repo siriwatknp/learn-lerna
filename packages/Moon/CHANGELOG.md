@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.1.2](https://github.com/siriwatknp/learn-lerna/compare/moon@2.1.1...moon@2.1.2) (2019-12-04)
+
+
+### Bug Fixes
+
+* update package.json ([7d24df5](https://github.com/siriwatknp/learn-lerna/commit/7d24df5f61f28421820eadae64fe58a30c5b60b7))
+
+
+
+
+
 ## [2.1.1](https://github.com/siriwatknp/learn-lerna/compare/moon@2.1.0...moon@2.1.1) (2019-12-04)
 
 **Note:** Version bump only for package moon
