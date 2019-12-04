@@ -9,7 +9,15 @@
     }
   },
   "changelog": {
-    "ignoreCommitters": ["allcontributors"],
+    "ignoreCommitters": [
+      "allcontributors",
+      "dependabot-bot",
+      "dependabot[bot]",
+      "greenkeeperio-bot",
+      "greenkeeper[bot]",
+      "renovate-bot",
+      "renovate[bot]" 
+    ],
     "labels": {
       "enhancement": ":rocket: New Feature",
       "core": ":earth_asia: Core",
