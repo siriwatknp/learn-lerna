@@ -3,5 +3,5 @@
 module.exports = sun;
 
 function sun() {
-    return 'test22'
+    return 'test222'
 }
