@@ -3,5 +3,5 @@
 module.exports = sun;
 
 function sun() {
-    // TODO
+    return 'test'
 }
