@@ -10,3 +10,4 @@ const moon = require('Moon');
 // TODO: DEMONSTRATE API
 ```
 hello
+hello2
