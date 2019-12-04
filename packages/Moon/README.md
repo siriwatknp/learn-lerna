@@ -12,3 +12,4 @@ const moon = require('Moon');
 hello
 hello2
 test
+test3
