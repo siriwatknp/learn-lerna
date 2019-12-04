@@ -1,6 +1,6 @@
 {
   "name": "sky",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "> TODO: description",
   "author": "siriwatknp <siriwatkunaporn@gmail.com>",
   "homepage": "",
@@ -17,7 +17,7 @@
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
   "dependencies": {
-    "moon": "^2.1.0",
+    "moon": "^2.1.1",
     "sun": "^2.0.0"
   }
 }
