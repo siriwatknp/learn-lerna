@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/siriwatknp/learn-lerna/compare/moon@2.0.0...moon@2.1.0) (2019-12-04)
+
+
+### Features
+
+* allow provided config object to extend other configs ([f49b5e1](https://github.com/siriwatknp/learn-lerna/commit/f49b5e10ad074f4f39f9db3130dab49c849541ac))
+* **lang:** add polish language ([61f62b4](https://github.com/siriwatknp/learn-lerna/commit/61f62b48d4c50f7b2156a80a9e1abca889ffddd0))
+
+
+
+
+
 # [2.0.0](https://github.com/siriwatknp/learn-lerna/compare/moon@1.0.2...moon@2.0.0) (2019-12-04)
 
 
